@@ -1,0 +1,21 @@
+* {
+    /* margin: 0;
+    height: 0; */
+    font-family: font-poppins
+   }
+
+.foto-landingpage {
+    height: 718px;
+    width: 100%;
+    position: relative;
+}
+.new-arrival {
+    width: 643px;
+    height: 443px;
+    border-width: 1px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    border-radius: 7px;
+
+}
